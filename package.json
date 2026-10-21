@@ -1,0 +1,10 @@
+{
+  "name": "tapa-reflection",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Staff curriculum reflection web prototype",
+  "scripts": {
+    "start": "node server.mjs",
+    "build": "node build.mjs"
+  }
+}
