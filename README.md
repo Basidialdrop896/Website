@@ -39,4 +39,4 @@ Before changing the questions or access wording, confirm them with the project t
 
 ## Deployment
 
-Netlify runs `npm run build` and publishes the `dist` folder. Changes merged into the connected GitHub branch trigger a new deployment. Check the deployed page after each change.
+Netlify runs `npm run build` and publishes the `dist` folder. The live preview is at https://teamtapa.netlify.app/ (Version 2: https://teamtapa.netlify.app/v2). Changes merged into the connected GitHub branch trigger a new deployment. Check the deployed page after each change.
